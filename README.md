@@ -70,7 +70,7 @@ Build an advanced interactive real-time dashboard
 
 ## 📊 Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/alhajtp04-ux/Bengaluru-House-Price-Analysis/blob/main/HOUSE_Dashboard/Screenshot%202026-02-14%20151503.png)
 
 
 👤 Author
