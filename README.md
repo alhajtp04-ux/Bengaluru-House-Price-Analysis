@@ -68,6 +68,9 @@ Include rental data for deeper market insights
 
 Build an advanced interactive real-time dashboard
 
+## 📊 Dashboard Preview
+
+![Dashboard]()
 
 
 👤 Author
